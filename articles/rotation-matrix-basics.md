@@ -3,7 +3,7 @@ title: "ゴルフスイング計測で詰まって初めて理解した：回転
 emoji: "🔄"
 type: "tech"
 topics: ["IMU", "回転行列", "クォータニオン", "センサ", "初心者"]
-published: false
+published: true
 ---
 
 # ゴルフスイング計測で詰まって初めて理解した：回転行列って結局何なのか
