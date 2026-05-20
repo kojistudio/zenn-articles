@@ -75,7 +75,7 @@ Z軸となす角度θzのcos → cos(θz)
 | Z軸（上） | 0 | 上方向には向いていない |
 
 この「3つの数値」が方向余弦です。1本のベクトルの向きを3つの数値で表しています。
-![方向余弦のイメージ](/images/rotation-matrix-basics/direction_cosine_concept.svg)
+![方向余弦のイメージ](/images/rotation-matrix-basics/direction_cosine_concept.png)
 
 ---
 
@@ -106,7 +106,7 @@ IMUを腕に取り付けたとき、センサの座標系（センサのX・Y・
       ↓  × 回転行列
 世界座標系での値
 ```
-![回転行列の構造](/images/rotation-matrix-basics/rotation_matrix_structure_v9.svg)
+![回転行列の構造](/images/rotation-matrix-basics/rotation_matrix_structure_v9.png)
 
 たとえば腕をまっすぐ前に動かしても、センサを斜めに取り付けていれば「世界座標でどっちに動いたか」は変わります。回転行列という変換を通すことで、取り付け方向に関係なく正しく解釈できます。
 
@@ -138,7 +138,7 @@ IMUを腕に取り付けたとき、センサの座標系（センサのX・Y・
 
 具体的には：
 
-![センサ座標系から世界座標系への変換](/images/rotation-matrix-basics/sensor_to_world_coordinate_v3.svg)
+![センサ座標系から世界座標系への変換](/images/rotation-matrix-basics/sensor_to_world_coordinate_v3.png)
 - VQFがセンサの生データからクォータニオンを出力
 - キャリブレーション時に「基準クォータニオン」を保存
 - 以降の角度は基準との相対クォータニオンから計算
