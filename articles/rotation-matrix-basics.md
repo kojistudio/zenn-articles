@@ -166,3 +166,9 @@ VQFやMadgwickなどのセンサフュージョンアルゴリズムが内部で
 **参考資料**
 
 - [モーションにおける３次元回転（SPORTS SENSINGスポーツ科学研究室）](https://note.com/ss_sports_lab/m/m2eca0afa9084) — 本記事の元ネタです。数学的に正確に学びたい方はこちらをどうぞ。
+
+---
+
+**このシリーズの記事**
+- ゴルフスイング計測で詰まって初めて理解した：回転行列って結局何なのか（本記事）
+- [左手首の角度を測ろうとして半年詰まった話：IMU・ジンバルロック・クロストーク](https://zenn.dev/kojistudio/articles/imu-gimbal-crosstalk-half-year)
