@@ -171,4 +171,4 @@ VQFやMadgwickなどのセンサフュージョンアルゴリズムが内部で
 
 **このシリーズの記事**
 - ゴルフスイング計測で詰まって初めて理解した：回転行列って結局何なのか（本記事）
-- [左手首の角度を測ろうとして半年詰まった話：IMU・ジンバルロック・クロストーク](https://zenn.dev/kojistudio/articles/imu-gimbal-crosstalk-half-year)
+- [左手首の角度を測ろうとして数ヶ月詰まった話：IMU・ジンバルロック・クロストーク](https://zenn.dev/kojistudio/articles/imu-gimbal-crosstalk-half-year)
