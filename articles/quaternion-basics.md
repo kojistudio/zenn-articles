@@ -3,7 +3,7 @@ title: "クォータニオンって結局何なのか：式の意味がわかる
 emoji: "🔄"
 type: "tech"
 topics: ["クォータニオン", "imu", "ゴルフ", "センサ", "姿勢推定"]
-published: false
+published: true
 ---
 
 [左手首の角度を測ろうとして数ヶ月詰まった話](https://zenn.dev/kojistudio/articles/imu-gimbal-crosstalk-half-year)で、クロストークの話を書きました。「回内・回外すると背屈・掌屈の値まで動いてしまう」という問題です。
